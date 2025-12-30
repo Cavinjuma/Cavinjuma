@@ -2,8 +2,8 @@
 
 
 
-### Hi there, I am Juma Cavin Otieno 👋
-[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/rajaprerak/)
+### Hello there, I am **Juma Cavin Otieno** 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Cavinjuma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Cavinjuma/)](https://www.linkedin.com/in/Cavinjuma/)
 [![Gmail Badge](https://img.shields.io/badge/-jumacavin28@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jumacavin28@gmail.com)](mailto:jumacavin28@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://Cavinjuma.github.io/)
@@ -12,7 +12,7 @@
 💻 **Things I love**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Front End Development ✍️
-- Machine Learning 🧐
+- AI & Machine Learning 🧐
 - Data Science and Analysis 😬
 
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
