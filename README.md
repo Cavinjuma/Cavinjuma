@@ -22,7 +22,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
-![React](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX_4tpmPKxJDqUB7SVS_kon_Jnr6xo14mHTw&s)/**(https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)*/
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 
