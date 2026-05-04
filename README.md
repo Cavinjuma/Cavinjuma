@@ -9,7 +9,7 @@
 
 💻 **Things I love**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Front End Development ✍️
+- Software Development ✍️ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnUyaWRnd3gyYnlnenpzZXRscmMxazBwcWJqMnVxeWc3N2owY2k1ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif" width="30">
 - AI & Machine Learning 🧐
 - Data Science and Analysis 😬
 
