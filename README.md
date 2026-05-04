@@ -9,9 +9,9 @@
 
 💻 **Things I love**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Software Development ✍️ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnUyaWRnd3gyYnlnenpzZXRscmMxazBwcWJqMnVxeWc3N2owY2k1ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif" width="30">
+- Software Development <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnUyaWRnd3gyYnlnenpzZXRscmMxazBwcWJqMnVxeWc3N2owY2k1ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif" width="30">
 - AI & Machine Learning 🧐
-- Data Science and Analysis 😬
+- Data Science and Analysis ✍️
 
  <a href="https://github.com/Cavinjuma" title="Go to Source">
       <img align="right" width=420 height="auto" src="developer.gif" />
@@ -22,7 +22,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
+![React](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX_4tpmPKxJDqUB7SVS_kon_Jnr6xo14mHTw&s)/**(https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)*/
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 
