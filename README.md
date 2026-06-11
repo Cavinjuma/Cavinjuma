@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/Cavinjuma/Cavinjuma/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 
 ### Hello there, I am **Juma Cavin Otieno** 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Cavinjuma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Cavinjuma/)](https://www.linkedin.com/in/Cavinjuma/)
+[![Linkedin Badge](https://img.shields.io/badge/-juma-cavin9090-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juma-cavin9090/)](https://www.linkedin.com/in/juma-cavin9090/)
 [![Gmail Badge](https://img.shields.io/badge/-jumacavin28@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jumacavin28@gmail.com)](mailto:jumacavin28@gmail.com) 
 
 - 🎯 Portfolio website: <a href="https://cavinjuma.github.io/jumaotieno.github.io/">Portfolio</a>
