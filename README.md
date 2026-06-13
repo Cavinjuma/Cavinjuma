@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Cavinjuma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juma-cavin9090/)](https://www.linkedin.com/in/juma-cavin9090/)
 [![Gmail Badge](https://img.shields.io/badge/-jumacavin28@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jumacavin28@gmail.com)](mailto:jumacavin28@gmail.com) 
 
-- 🎯 Portfolio website: <a href="https://cavinjuma.github.io/jumaotieno.github.io/">Portfolio</a>
+- 🎯 Portfolio website: <a href="https://jumacavinotieno.vercel.app/">Portfolio</a>
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
